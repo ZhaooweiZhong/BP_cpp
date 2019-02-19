@@ -1,0 +1,10 @@
+﻿  BPtry.cpp
+d:\我爱学习\学校 各种\各种课程\大三上\人工智能\大作业\bp神经网络\bp神经网络\bptry.cpp(194): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\我爱学习\学校 各种\各种课程\大三上\人工智能\大作业\bp神经网络\bp神经网络\bptry.cpp(201): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\我爱学习\学校 各种\各种课程\大三上\人工智能\大作业\bp神经网络\bp神经网络\bptry.cpp(208): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  3 of 384 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  BP神经网络.vcxproj -> D:\我爱学习\学校 各种\各种课程\大三上\人工智能\大作业\BP神经网络\Release\BP神经网络.exe
